@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/aclonica</item>
+        <item>@font/assistant_light</item>
+        <item>@font/dosis</item>
+        <item>@font/dosis_extralight</item>
+        <item>@font/dosis_light</item>
+    </array>
+</resources>
