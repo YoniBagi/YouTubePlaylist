@@ -1,5 +1,5 @@
 # YouTubePlaylist
-An example of an application built on MVC architecture and displays a list of a playlists.
+An example of an application built with MVC architecture and displays a list of a playlists.
 When a playlist item is tapped, the app drill down and show each item of the selected playlist with it is corresponding thumbnail image.
 When a video item is tapped, the youtube video should begin playing immediately.
 I used the youtube library - YouTube Android Player API.
